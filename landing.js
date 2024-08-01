@@ -27,7 +27,7 @@ function landingLogicYes () {
         yesButton.innerHTML = "okay!!";
         noButton.innerHTML = "nah i'm good";
     } else if (noButton.innerHTML == "nah i'm good") {
-        textBox.innerHTML = "so i made u this rrly cool website go look! (turn up sound and scroll pls)";
+        textBox.innerHTML = "so i made u this rrly cool website go look! (turn up sound and scroll pls, also let it load first!!)";
         yesButton.style.display = "none";
         noButton.style.display = "none";
         websiteButton.style.display = "flex";
